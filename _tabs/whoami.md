@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-X over here. I'm a CTI Analyst currently pivoting to Read Teaming. So here y'all will see:
+Even though my full username is southernexpozure y'all can call me souf. I'm a CTI Analyst currently pivoting to Read Teaming. So here y'all will see:
 - Malware Analysis & Development
 - Vulnerabilities
 - HTB Writeups
